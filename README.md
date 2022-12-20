@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sahiljuneja29
 - 👀 I’m interested in Web and API Automation
 - 🌱 I’m currently learning Provar Test Automation for salesforce application
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on testing and automating web applications
 - 📫 How to reach me ...
 
 <!---
